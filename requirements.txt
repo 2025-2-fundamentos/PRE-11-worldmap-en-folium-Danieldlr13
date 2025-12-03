@@ -1,4 +1,5 @@
-pytest
-matplotlib
-folium
+ipykernel
 pandas
+pytest
+scikit-learn
+xlrd
